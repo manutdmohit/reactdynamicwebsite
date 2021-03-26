@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactdynamicwebsite/static/css/main.d073ba5c.chunk.css",
+    "main.js": "/reactdynamicwebsite/static/js/main.205c2794.chunk.js",
+    "main.js.map": "/reactdynamicwebsite/static/js/main.205c2794.chunk.js.map",
+    "runtime-main.js": "/reactdynamicwebsite/static/js/runtime-main.fca7181d.js",
+    "runtime-main.js.map": "/reactdynamicwebsite/static/js/runtime-main.fca7181d.js.map",
+    "static/css/2.74c02967.chunk.css": "/reactdynamicwebsite/static/css/2.74c02967.chunk.css",
+    "static/js/2.0dd84ea9.chunk.js": "/reactdynamicwebsite/static/js/2.0dd84ea9.chunk.js",
+    "static/js/2.0dd84ea9.chunk.js.map": "/reactdynamicwebsite/static/js/2.0dd84ea9.chunk.js.map",
+    "index.html": "/reactdynamicwebsite/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/reactdynamicwebsite/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.d073ba5c.chunk.css.map": "/reactdynamicwebsite/static/css/main.d073ba5c.chunk.css.map",
+    "static/js/2.0dd84ea9.chunk.js.LICENSE.txt": "/reactdynamicwebsite/static/js/2.0dd84ea9.chunk.js.LICENSE.txt",
+    "static/media/2.7f28bb97.svg": "/reactdynamicwebsite/static/media/2.7f28bb97.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fca7181d.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.0dd84ea9.chunk.js",
+    "static/css/main.d073ba5c.chunk.css",
+    "static/js/main.205c2794.chunk.js"
+  ]
+}
